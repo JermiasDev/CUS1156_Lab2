@@ -1,3 +1,9 @@
+/* Project:  Lab2
+* Class: UniqueWords.Java
+* Author: Jonathan Ermias
+* Date: February 15, 2023 
+* This program prints out the number of Unique words found in the provided Array list
+*/ 
 import java.util.ArrayList;
 
 public class UniqueWords
